@@ -1,5 +1,5 @@
 
-This is a rough proposal for an approach to solving [https://github.com/swicg/general/issues/3 Socially Acceptable Search #3].  It's based the idea of content warnings, as soon in Mastodon and much earlier in [http://www.livejournal.com/support/faq/75.html LiveJournal's lj-cut].
+This is a rough proposal for an approach to solving [Socially Acceptable Search #](https://github.com/swicg/general/issues/3).  It's based the idea of content warnings, as soon in Mastodon and much earlier in [LiveJournal's lj-cut](http://www.livejournal.com/support/faq/75.html).
 
 I'm framing the problem like this:
 
