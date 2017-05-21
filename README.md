@@ -1,4 +1,4 @@
-'''(still pretty sketchy, lots to be done)'''
+**(still pretty sketchy, lots to be done)**
 
 This is a rough proposal for an approach to solving [Socially Acceptable Search (swicg/general/3)](https://github.com/swicg/general/issues/3).  It's based the idea of content warnings, as seen in Mastodon and much earlier in [LiveJournal's lj-cut](http://www.livejournal.com/support/faq/75.html).
 
